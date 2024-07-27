@@ -1,2 +1,2 @@
-# react
+# React JS
 React Series
