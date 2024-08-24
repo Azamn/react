@@ -3,11 +3,13 @@ import Chai from "./Chai"
 
 function App() {
   
+  const username = "chai aur code";  
 
+  // evaluated expression used in return 
   return (
     <>
     <Chai />
-    <h1>Chai Aur React | Azam Shaikh</h1>
+    <h1>{username} | Azam Shaikh</h1>   
    </>
   )
 }
